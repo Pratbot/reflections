@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+A directory is created whose instances could be saves. It helps in coding.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Staging area adds all the changes that  occur in the working area and when all
+is done, staging area, at a time commits the change to the repository.
+This might help in improving the CPU time.
