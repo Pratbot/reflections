@@ -6,7 +6,7 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Github cannot update the changes that I have made to the files locally. So, to update the repository with all the changes you have, you must pull the repository, add the changes, commit them and then puh them back.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
