@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Saving a copy of the last known remote allows the user to keep track of all the changes that were made in the period of time he/she was offline. This will enable him to get on track easily.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
